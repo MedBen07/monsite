@@ -1,0 +1,113 @@
+.logo{
+	height:15%;
+	width:15%;
+	float:left; 
+	padding: 10px;
+}
+img{
+	max-width:100%;
+	max-height:100%;	
+}
+body{
+	background-color: #cfd9df;
+	padding: 30px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Arial;
+}
+.btn{
+	text-decoration:none;
+	font-size: 14px;
+	text-transform: uppercase;
+	color: #999;
+	background-color: black;
+	padding: 10px 20px;
+	letter-spacing: 1px;
+}
+.btn:hover{
+	font-size: 16px;
+	transition-duration: 0.5s;
+	transition-timing-function: linear;
+	border:none;
+	background-color: white;
+	padding: 10px 20px;
+	color: #1b1b1b;
+}
+h1{
+	text-align: center;
+	color: #087ebc;;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-size:30px ;
+}
+.captureecran{
+	Float:right; 
+	height:385px;
+}
+hr{
+	align-items: center;
+	color: gray;
+	width: 80%;
+}
+.ZoneContenu{ 
+	margin:auto; 
+	border:1px solid #CECECE;
+	border-radius:5px; 
+	width:96%;
+	background-color:white;
+	padding:10px;
+	font-family:arial;
+	text-align: justify;
+}
+.menufooter {
+	display: inline-table;
+	width: 130px;
+	letter-spacing: 1px;
+	}
+
+.footer{
+	margin:auto; 
+	border-radius:5px;
+	width:95%;	
+	background-color:black;
+	padding:20px;
+	font-family:arial;
+
+}
+table{
+	border-collapse:collapse;
+	border-color: gray;
+	color:black;
+	font-family:Arial;
+	font-size:15px ;
+	width: 100%;
+}
+th{
+	text-align: left;
+	background-color: gray;
+	color: white;
+}
+td, th{
+	border: 1px solid #eeeeee;
+    border-collapse: collapse;
+    text-align: left;
+    padding: 8px;	
+}
+a:link{
+	color:white;
+	text-decoration:none;
+	}
+a:visited{
+	color:#5eba41;
+	}
+a:hover {
+	color: #121d1f;
+	background-color: white;
+	font-size: 14px;
+	font-weight: bold;
+	}
+.copyright{
+	font-family:Arial;
+	font-size:14px ;
+	color: white;
+	text-align:center ;
+}
